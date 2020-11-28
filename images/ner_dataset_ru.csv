@@ -200,25 +200,14 @@ NaN,–,_,O
 NaN,попросил,_,O
 NaN,Берлиоз,_,B-per
 Sentence: 10,–,_,O
-NaN,Нарзану,_,O
-NaN,нету,_,O
-NaN,–,_,O
-NaN,ответила,_,O
-NaN,женщина,_,B-per
-NaN,в,_,O
-NaN,будочке,_,O
-NaN,и,_,O
-NaN,почемуто,_,O
-NaN,обиделась,_,O
-Sentence: 11,–,_,O
 NaN,Пиво,_,O
 NaN,есть,_,O
-Sentence: 12,–,_,O
+Sentence: 11,–,_,O
 NaN,сиплым,_,O
 NaN,голосом,_,O
 NaN,осведомился,_,O
 NaN,Бездомный,_,B-per
-Sentence: 13,–,_,O
+Sentence: 12,–,_,O
 NaN,Пиво,_,O
 NaN,привезут,_,O
 NaN,к,_,O
@@ -226,26 +215,26 @@ NaN,вечеру,_,O
 NaN,–,_,O
 NaN,ответила,_,O
 NaN,женщина,_,B-per
-Sentence: 14,–,_,O
+Sentence: 13,–,_,O
 NaN,А,_,O
 NaN,что,_,O
 NaN,есть,_,O
-Sentence: 15,–,_,O
+Sentence: 14,–,_,O
 NaN,спросил,_,O
 NaN,Берлиоз,_,B-per
-Sentence: 16,–,_,O
+Sentence: 15,–,_,O
 NaN,Абрикосовая,_,O
 NaN,только,_,O
 NaN,теплая,_,O
 NaN,–,_,O
 NaN,сказала,_,O
 NaN,женщина,_,B-per
-Sentence: 17,–,_,O
+Sentence: 16,–,_,O
 NaN,Ну,_,O
 NaN,давайте,_,O
 NaN,давайте,_,O
 NaN,давайте,_,O
-Sentence: 18,Абрикосовая,_,O
+Sentence: 17,Абрикосовая,_,O
 NaN,дала,_,O
 NaN,обильную,_,O
 NaN,желтую,_,O
@@ -255,7 +244,7 @@ NaN,в,_,O
 NaN,воздухе,_,O
 NaN,запахло,_,O
 NaN,парикмахерской,_,O
-Sentence: 19,Напившись,_,O
+Sentence: 18,Напившись,_,O
 NaN,литераторы,_,O
 NaN,немедленно,_,O
 NaN,начали,_,O
@@ -272,14 +261,14 @@ NaN,и,_,O
 NaN,спиной,_,O
 NaN,к,_,O
 NaN,Бронной,_,O
-Sentence: 20,Тут,_,O
+Sentence: 19,Тут,_,O
 NaN,приключилась,_,O
 NaN,вторая,_,O
 NaN,странность,_,O
 NaN,касающаяся,_,O
 NaN,одного,_,O
 NaN,Берлиоза,_,B-per
-Sentence: 21,Он,_,B-per
+Sentence: 20,Он,_,B-per
 NaN,внезапно,_,O
 NaN,перестал,_,O
 NaN,икать,_,O
@@ -300,7 +289,7 @@ NaN,иглой,_,O
 NaN,засевшей,_,O
 NaN,в,_,O
 NaN,нем,_,O
-Sentence: 22,Кроме,_,O
+Sentence: 21,Кроме,_,O
 NaN,того,_,O
 NaN,Берлиоза,_,B-per
 NaN,охватил,_,O
@@ -319,7 +308,7 @@ NaN,с,_,O
 NaN,Патриарших,_,O
 NaN,без,_,O
 NaN,оглядки,_,O
-Sentence: 23,Берлиоз,_,B-per
+Sentence: 22,Берлиоз,_,B-per
 NaN,тоскливо,_,O
 NaN,оглянулся,_,O
 NaN,не,_,O
@@ -327,7 +316,7 @@ NaN,понимая,_,O
 NaN,что,_,O
 NaN,его,_,O
 NaN,напугало,_,O
-Sentence: 24,Он,_,B-per
+Sentence: 23,Он,_,B-per
 NaN,побледнел,_,O
 NaN,вытер,_,O
 NaN,лоб,_,O
@@ -337,15 +326,15 @@ NaN,Что,_,O
 NaN,это,_,O
 NaN,со,_,O
 NaN,мной,_,O
-Sentence: 25,Этого,_,O
+Sentence: 24,Этого,_,O
 NaN,никогда,_,O
 NaN,не,_,O
 NaN,было,_,O
-Sentence: 26,сердце,_,O
+Sentence: 25,сердце,_,O
 NaN,шалит,_,O
-Sentence: 27,я,_,O
+Sentence: 26,я,_,O
 NaN,переутомился,_,O
-Sentence: 28,Пожалуй,_,O
+Sentence: 27,Пожалуй,_,O
 NaN,пора,_,O
 NaN,бросить,_,O
 NaN,все,_,O
@@ -370,7 +359,7 @@ NaN,прозрачный,_,O
 NaN,гражданин,_,O
 NaN,престранного,_,O
 NaN,вида,_,O
-Sentence: 29,На,_,O
+Sentence: 28,На,_,O
 NaN,маленькой,_,O
 NaN,головке,_,O
 NaN,жокейский,_,O
@@ -380,7 +369,7 @@ NaN,кургузый,_,O
 NaN,воздушный,_,O
 NaN,же,_,O
 NaN,пиджачок,_,O
-Sentence: 30,Гражданин,_,O
+Sentence: 29,Гражданин,_,O
 NaN,ростом,_,O
 NaN,в,_,O
 NaN,сажень,_,O
@@ -395,7 +384,7 @@ NaN,физиономия,_,O
 NaN,прошу,_,O
 NaN,заметить,_,O
 NaN,глумливая,_,O
-Sentence: 31,Жизнь,_,O
+Sentence: 30,Жизнь,_,O
 NaN,Берлиоза,_,B-per
 NaN,складывалась,_,O
 NaN,так,_,O
@@ -406,7 +395,7 @@ NaN,явлениям,_,O
 NaN,он,_,B-per
 NaN,не,_,O
 NaN,привык,_,O
-Sentence: 32,Еще,_,O
+Sentence: 31,Еще,_,O
 NaN,более,_,O
 NaN,побледнев,_,O
 NaN,он,_,B-per
@@ -440,7 +429,7 @@ NaN,и,_,O
 NaN,влево,_,O
 NaN,и,_,O
 NaN,вправо,_,O
-Sentence: 33,Тут,_,O
+Sentence: 32,Тут,_,O
 NaN,ужас,_,O
 NaN,до,_,O
 NaN,того,_,O
@@ -450,7 +439,7 @@ NaN,что,_,O
 NaN,он,_,B-per
 NaN,закрыл,_,O
 NaN,глаза,_,O
-Sentence: 34,А,_,O
+Sentence: 33,А,_,O
 NaN,когда,_,O
 NaN,он,_,B-per
 NaN,их,_,O
@@ -471,11 +460,11 @@ NaN,игла,_,O
 NaN,выскочила,_,O
 NaN,из,_,O
 NaN,сердца,_,O
-Sentence: 35,–,_,O
+Sentence: 34,–,_,O
 NaN,Фу,_,O
 NaN,ты,_,O
 NaN,черт,_,O
-Sentence: 36,–,_,O
+Sentence: 35,–,_,O
 NaN,воскликнул,_,O
 NaN,редактор,_,B-per
 NaN,–,_,O
@@ -491,7 +480,7 @@ NaN,от,_,O
 NaN,жары,_,O
 NaN,не,_,O
 NaN,сделался,_,O
-Sentence: 37,Даже,_,O
+Sentence: 36,Даже,_,O
 NaN,чтото,_,O
 NaN,вроде,_,O
 NaN,галлюцинации,_,O
@@ -510,7 +499,7 @@ NaN,тревога,_,O
 NaN,и,_,O
 NaN,руки,_,O
 NaN,дрожали,_,O
-Sentence: 38,Однако,_,O
+Sentence: 37,Однако,_,O
 NaN,постепенно,_,O
 NaN,он,_,B-per
 NaN,успокоился,_,O
@@ -528,7 +517,7 @@ NaN,речь,_,O
 NaN,прерванную,_,O
 NaN,питьем,_,O
 NaN,абрикосовой,_,O
-Sentence: 39,Речь,_,O
+Sentence: 38,Речь,_,O
 NaN,эта,_,O
 NaN,как,_,O
 NaN,впоследствии,_,O
@@ -537,7 +526,7 @@ NaN,шла,_,O
 NaN,об,_,O
 NaN,Иисусе,_,B-per
 NaN,Христе,_,B-per
-Sentence: 40,Дело,_,O
+Sentence: 39,Дело,_,O
 NaN,в,_,O
 NaN,том,_,O
 NaN,что,_,O
@@ -551,7 +540,7 @@ NaN,журнала,_,O
 NaN,большую,_,O
 NaN,антирелигиозную,_,O
 NaN,поэму,_,O
-Sentence: 41,Эту,_,O
+Sentence: 40,Эту,_,O
 NaN,поэму,_,O
 NaN,Иван,_,B-per
 NaN,Николаевич,_,B-per
@@ -569,7 +558,7 @@ NaN,редактора,_,B-per
 NaN,нисколько,_,O
 NaN,не,_,O
 NaN,удовлетворил,_,O
-Sentence: 42,Очертил,_,O
+Sentence: 41,Очертил,_,O
 NaN,Бездомный,_,B-per
 NaN,главное,_,O
 NaN,действующее,_,O
@@ -594,7 +583,7 @@ NaN,мнению,_,O
 NaN,редактора,_,B-per
 NaN,писать,_,O
 NaN,заново,_,O
-Sentence: 43,И,_,O
+Sentence: 42,И,_,O
 NaN,вот,_,O
 NaN,теперь,_,O
 NaN,редактор,_,B-per
@@ -612,7 +601,7 @@ NaN,подчеркнуть,_,O
 NaN,основную,_,O
 NaN,ошибку,_,O
 NaN,поэта,_,B-per
-Sentence: 44,Трудно,_,O
+Sentence: 43,Трудно,_,O
 NaN,сказать,_,O
 NaN,что,_,O
 NaN,именно,_,O
@@ -653,7 +642,7 @@ NaN,привлекающий,_,O
 NaN,к,_,O
 NaN,себе,_,O
 NaN,персонаж,_,O
-Sentence: 45,Берлиоз,_,B-per
+Sentence: 44,Берлиоз,_,B-per
 NaN,же,_,O
 NaN,хотел,_,O
 NaN,доказать,_,O
@@ -695,7 +684,7 @@ NaN,выдумки,_,O
 NaN,самый,_,O
 NaN,обыкновенный,_,O
 NaN,миф,_,O
-Sentence: 46,Надо,_,O
+Sentence: 45,Надо,_,O
 NaN,заметить,_,O
 NaN,что,_,O
 NaN,редактор,_,B-per
@@ -730,7 +719,7 @@ NaN,упоминавших,_,O
 NaN,о,_,O
 NaN,существовании,_,O
 NaN,Иисуса,_,B-per
-Sentence: 47,Обнаруживая,_,O
+Sentence: 46,Обнаруживая,_,O
 NaN,солидную,_,O
 NaN,эрудицию,_,O
 NaN,Михаил,_,B-per
@@ -768,7 +757,7 @@ NaN,как,_,O
 NaN,позднейшая,_,O
 NaN,поддельная,_,O
 NaN,вставка,_,O
-Sentence: 48,Поэт,_,B-per
+Sentence: 47,Поэт,_,B-per
 NaN,для,_,O
 NaN,которого,_,O
 NaN,все,_,O
